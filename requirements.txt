@@ -1,0 +1,12 @@
+langchain
+langchain-core
+langchain-community
+langchain-groq
+chromadb
+langchain-google-genai
+pymupdf
+streamlit
+python-dotenv
+tqdm
+numpy
+pandas
