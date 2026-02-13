@@ -5,15 +5,17 @@ An AI-powered study assistant designed to help with learning, summarizing, and o
 ## 📁 Project Structure
 
 AI_Study_Companion/
+│
 ├── .idea/ # IDE configuration files
 ├── books/ # Reference books or study materials
 ├── src/ # Source code (core logic & modules)
 ├── vector_Store/ # Vector/embedding storage for retrieval
 ├── workbooks/ # Notebooks / interactive docs
+│
 ├── .env # Environment variables (keep secret)
-├── .gitattributes # Git attributes config
+├── .gitattributes # Git attributes configuration
 ├── requirements.txt # Python dependencies
-└── README.md # This documentation file
+└── README.md # Project documentation
 
 
 
